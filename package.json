@@ -1,5 +1,5 @@
 {
-  "name": "saleor-app-slack",
+  "name": "saleor-app-slack-deployment-test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
